@@ -1,4 +1,4 @@
-# Social Media Analytics with Apache Spark
+# Social Media Analytics with PySpark
 ## Overview
 This project focuses on leveraging Apache Spark and relevant big data tools for Social Media Analytics. The goal is to gain insights into user behavior, trends, and sentiment by analyzing data collected from various social media platforms like Twitter, Facebook, and LinkedIn.
 ## Problem Specification
